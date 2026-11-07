@@ -40,8 +40,8 @@ The project has two parts:
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Kaizaki02/Hand-Gesture-Volume-Control.git
+cd Hand-Gesture-Volume-Control
 python -m venv venv
 venv\Scripts\activate          # Windows
 pip install -r requirements.txt
